@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-22.0.0_cae31cd96c07749d5776272554606e119eb959dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1ff5c5a62e3fb93621a7c657191969add43b11c4">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_a8acf0fac36addf573ab361eddc2ef3a4869347b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-22.0.0_b1dbf98eaa8c834a85dc55bff5a5dbe9d39fb8b1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="1d2e94244314ecd6e13ef9d28910a4bdd272dcce">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_230e96952d5c9191bc5ba9b8bfc556fc6762622e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-22.0.0_de16a8aa7a23d7817cce7d58d540a2151c4acb7d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/imanol/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/imanol/Documentos/Proyectos/Practica1_Calculadora/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-22.0.0_82aefcd3ed97d36001bc315f253cb007b682e37b/classes.dex" />
+    </item>
+
+</items>
